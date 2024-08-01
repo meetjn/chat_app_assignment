@@ -1,3 +1,21 @@
+## Task Completed
+
+1/ User can enter their username to log in.
+
+2/ Implemented a server using Node and ExpressJs
+
+3/ Integrated a postgreSQL database and used prisma as a orm, defined structured db schema
+
+## To be done
+
+store password encrypted using a bycrpt library.
+
+1/ Implementing a websocket server.
+
+2/ Allowing users to send and recieve messagess in real time with in their private chat room
+
+3/ Store chat messages in a database.
+
 ## Getting Started
 
 Clone the reopsitory, and then
