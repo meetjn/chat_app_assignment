@@ -4,21 +4,21 @@
 
 2/ Implemented a server using Node and ExpressJs
 
-3/ Integrated a postgreSQL database and used prisma as a orm, defined structured db schema
+3/ Integrated a PostgreSQL database and used Prisma as an orm, defined structured db schema
+
+4/ Implemented a websocket server.
 
 ## To be done
 
-store password encrypted using a bycrpt library.
+1/Store password encrypted using a Bcrypt library.
 
-1/ Implementing a websocket server.
-
-2/ Allowing users to send and recieve messagess in real time with in their private chat room
+2/ Allowing users to send and receive messages in real-time within their private chat room
 
 3/ Store chat messages in a database.
 
 ## Getting Started
 
-Clone the reopsitory, and then
+Clone the repository, and then
 
 First, run the development server:
 
